@@ -1,0 +1,8 @@
+Número de pokémon : 236
+Nombre : Elekid 
+Descripción :Cuando se acerca una tormenta, pierde la compostura. Si oye el sonido de un trueno, no se puede contener y monta un revuelo.
+Altura : 0.6 m
+Peso:23.5 kg
+Categoría:Eletrico
+habilidad:Electricidad estatica
+Debilidad:tierra
