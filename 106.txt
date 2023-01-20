@@ -1,0 +1,8 @@
+Número de pokémon : 106
+Nombre : Hitmonlee
+Descripción : Este Pokémon tiene un sentido del equilibrio increíble. Puede dar patadas desde cualquier posición.
+Altura : 1.5 m
+Peso:  49.8kg
+Categoría: Patada
+Tipo: lucha
+Debilidad: Psiquico/volador/hada
