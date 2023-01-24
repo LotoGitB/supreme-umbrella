@@ -1,3 +1,4 @@
+
 Número de pokemon: 398
 Nombre: Staraptor
 Descripción: Al evolucionar a Staraptor, deja su bandada y pasa a vivir en soledad. Sus alas son inmensas.
@@ -5,4 +6,4 @@ Altura: 1.2m
 Peso: 24.9Kg
 Categoría: Depredador
 Tipo: Volador
-Debilidad: Eléctrico, Hielo, Roca
+Debilidad: Eléctrico, Hielo, Roca,
