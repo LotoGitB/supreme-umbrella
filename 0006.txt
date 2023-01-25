@@ -1,0 +1,8 @@
+Número de Pokémon : 0006
+Nombre : Charizard
+Descripción : Escupe un fuego tan caliente que funde las rocas. Causa incendios forestales sin querer.
+Altura : 1.7 m
+Peso:  90.5 kg
+Categoría: Llama
+Tipo: Fuego, volador
+Debilidad: Agua, eléctrico, roca
